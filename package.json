@@ -1,5 +1,6 @@
 {
-  "name": "backend",
+  "name": "default-backend",
+  "author": "Alan Ramalho",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
